@@ -1,0 +1,99 @@
+[
+	{
+		"id":"1",
+		"title":"Destiny II",
+		"price":169.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit nisi sint explicabo modi pariatur dolore officiis odit ea esse, atque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi ratione vel est at rerum, odio architecto eveniet sapiente fuga fugit, veritatis, dicta in officiis. Alias, explicabo. Minus necessitatibus doloremque earum.",
+		"image":"./img/image1.jpg",
+		"promo":true
+	},
+	{
+		"id":"2",
+		"title":"Assassin's Creed Odyssey",
+		"price":299.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image4.jpg",
+		"promo":true
+	},
+	{
+		"id":"3",
+		"title":"Diablo III",
+		"price":169.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image2.jpg",
+		"promo":false
+	},
+	{
+		"id":"4",
+		"title":"WarFrame",
+		"price":99.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image3.jpg",
+		"promo":true
+	},
+	{
+		"id":"5",
+		"title":"Diablo III",
+		"price":169.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image2.jpg",
+		"promo":true
+	},
+	{
+		"id":"6",
+		"title":"Assassin's Creed Odyssey",
+		"price":299.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image4.jpg",
+		"promo":false
+	},
+	{
+		"id":"7",
+		"title":"WarFrame",
+		"price":99.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image3.jpg",
+		"promo":true
+	},
+	{
+		"id":"8",
+		"title":"Assassin's Creed Odyssey",
+		"price":299.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image4.jpg",
+		"promo":false
+	},
+	{
+		"id":"9",
+		"title":"Diablo III",
+		"price":169.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image2.jpg",
+		"promo":false
+	},
+	{
+		"id":"10",
+		"title":"Assassin's Creed Odyssey",
+		"price":299.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image4.jpg",
+		"promo":true
+	},
+	{
+		"id":"11",
+		"title":"Diablo III",
+		"price":169.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image2.jpg",
+		"promo":false
+	},
+	{
+		"id":"12",
+		"title":"Diablo III",
+		"price":169.99,
+		"desc":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vitae saepe dignissimos nisi doloremque commodi minus, cupiditate dolore fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non consequuntur repudiandae aperiam expedita laboriosam quis voluptatem, qui sunt ex, dolorum rem incidunt culpa, deleniti pariatur.",
+		"image":"./img/image2.jpg",
+		"promo":false
+	}
+
+]	
