@@ -43,7 +43,7 @@ class App extends Component{
 					<div className="header">
 						<div className="profile">
 							<ul>
-								<li className="headerList">INFO</li>
+								<li className="headerList">INFOa</li>
 								<li className="headerList">KONTAKT</li>
 								<li className="headerList">SHOP</li>
 								<li className="headerList">PROFIL</li>
