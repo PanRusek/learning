@@ -8,7 +8,18 @@ function listItems(data){
 	return(
 			data.map((obj,index)=>{
 				return(
+
 					<li key={obj.id} className="reactLi">
+						<div className="reactlihover">
+							<div>
+								<i className="fas fa-thumbs-up"></i>
+								<p className="gameRate">100</p>
+							 </div>
+							<div>
+								<i className="fas fa-thumbs-down"></i> 
+								<p className="gameRate">5</p>
+							</div>
+						</div>
 						<div className="img">
 							<img src={require(`${obj.image}`)} alt="" align=""/>
 						</div>
@@ -26,7 +37,13 @@ function listItems(data){
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, nostrum voluptas....
 								
 							</p>
-						</div>	
+							
+						</div>
+						<div className="buypanel">
+							<p className="buy">Kup teraz</p>
+							<hr/>
+							<p className="buy">Dodaj do koszyka</p>
+						</div>
 						</li>
 					);
 				})
@@ -97,7 +114,7 @@ class App extends Component{
 								</div>
 								<div className="cart">
 									<i className="fas fa-shopping-cart"></i>
-									<p className="cartInfo"><b>2000.00PLN</b></p>
+									<p className="cartInfo"><b></b></p>
 								</div>
 							</div>
 							<div className="list">
